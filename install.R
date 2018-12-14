@@ -1,6 +1,2 @@
 install.packages("ggplot2")
-install.packages("dplyr")
-install.packages("ggplot2")
-install.packages("tidyverse")
-install.packages("readxl")
 install.packages("httr")
